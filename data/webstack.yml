@@ -3,6 +3,10 @@
 - taxonomy: 我的博客
   icon: fas fa-blog
   links: 
+    - title: 我的主页
+      logo: https://img.314926.xyz/images/2025/08/13/no-background-kemiaofxjun.webp
+      url: https://home.kemeow.top
+      description: 使用 Nuxt 构建的个人主页。
     - title: solitude
       logo: https://img.314926.xyz/images/2025/08/23/hexo-blog-solitude.webp
       url: https://myboke.kemiaosw.top
