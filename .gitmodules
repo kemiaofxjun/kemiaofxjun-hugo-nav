@@ -1,0 +1,3 @@
+[submodule "themes/WebStack-Hugo"]
+	path = themes/WebStack-Hugo
+	url = git@github.com-kemiaofxjun:shenweiyan/WebStack-Hugo.git
