@@ -152,7 +152,46 @@
     - title: Substracker
       logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAANHaKxxO-vuXNDznKeStr-yOvrGFGwAAmLHMRv-Y2hVE2xEItAcAr4BAAMCAAN4AAM2BA.webp
       url: https://sub.kemeow.top
-      description: 基于Cloudflare Workers的轻量级订阅管理系统，帮助您轻松跟踪各类订阅服务的到期时间     
+      description: 基于Cloudflare Workers的轻量级订阅管理系统，帮助您轻松跟踪各类订阅服务的到期时间  
+    - title: GitHub
+      logo: github.png
+      url: https://github.com/
+      description: GitHub 开源社区。
+    - title: Gitee
+      logo: https://favicon.im/gitee.com
+      url: https://gitee.com/
+      description: Gitee 开源社区。
+    - title: cloudflare
+      logo: https://favicon.im/dash.cloudflare.com
+      url: https://dash.cloudflare.com/
+      description: cloudflare 服务商
+    - title: Vercel
+      logo: https://favicon.im/vercel.com
+      url: https://vercel.com/
+      description: Vercel 服务商
+    - title: Netlify
+      logo: https://favicon.im/app.netlify.com
+      url: https://app.netlify.com/
+      description: NeNetlifytlify 服务商
+    - title: XLOG-写作
+      logo: https://favicon.im/xlog.app
+      url: https://xlog.app/dashboard/kemiaosw
+      description: 在这里为xlog写作
+- taxonomy: 图标
+  icon: fas fa-icons
+  links:
+    - title: Favicon.im
+      logo: https://favicon.im/favicon.im?larger=true
+      url: https://favicon.im/zh/
+      description: 常用网站logo
+    - title: 表情大全
+      logo: https://favicon.im/emoji6.com
+      url: https://emoji6.com/emojiall/
+      description: Markdown可复制的表情搜索网站
+    - title: Yesicon 图标
+      logo: https://favicon.im/yesicon.app?larger=true
+      url: https://yesicon.app/
+      description: Astro、nuxt博客等常用图标网站
 - taxonomy: 音乐网站
   icon: fas fa-music
   links:
@@ -191,7 +230,7 @@
       logo: https://favicon.im/www.alipan.com
       url: https://www.alipan.com/
       description: 阿里云盘
-- taxonomy: 相册&图床
+- taxonomy: 相册&图床&图片修改
   icon: fas fa-image
   links:
     - title: TimePlus
@@ -202,6 +241,18 @@
       logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAANJaKxyZP-VRG7sjPy7eXVuzbE8t2YAAmrHMRv-Y2hVy3NLWtaa1OkBAAMCAAN4AAM2BA.webp
       url: https://imgbed.kemeow.top
       description: cloudflare的imgbed
+    - title: 图片大小修改
+      logo: https://favicon.im/www.iloveimg.com
+      url: https://www.iloveimg.com/zh-cn/resize-image#resize-options,pixels
+      description: 图片大小修改
+    - title: 图片抠图
+      logo: https://favicon.im/remove-white-background.imageonline.co
+      url: https://remove-white-background.imageonline.co/cn/
+      description: 扣除图片白色背景
+    - title: 图片压缩
+      logo: https://favicon.im/www.iloveimg.com
+      url: https://www.iloveimg.com/zh-cn/compress-image
+      description: 图片压缩质量
 - taxonomy: 邮箱
   icon: fas fa-envelope
   links:
@@ -225,10 +276,21 @@
       logo: https://favicon.im/outlook.live.com
       url: https://outlook.live.com/
       description: 微软 Outlook 邮箱。
-#     - title: 开源中国
-#       logo: 开源中国.jpg
-#       url: https://www.oschina.net/
-#       description: 中文开源技术交流社区。
+- taxonomy: AI
+  icon: fas fa-robot
+  links:
+    - title: 问小白
+      logo: https://favicon.im/www.wenxiaobai.com
+      url: https://www.wenxiaobai.com/
+      description: 问小白-AI
+    - title: Copilot
+      logo: https://favicon.im/copilot.microsoft.com
+      url: https://copilot.microsoft.com/chats/
+      description: 微软 Copilot-AI
+    - title: Kimi
+      logo: https://favicon.im/www.kimi.com
+      url: https://www.kimi.com/chat/
+      description: Kimi-AI
 #     - title: 公众号平台
 #       logo: 微信公众号.png
 #       url: https://mp.weixin.qq.com/
