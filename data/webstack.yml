@@ -82,10 +82,18 @@
       logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAMhaKnPdyeR6najXgPkOqV5IMarHS4AAs3HMRupnFBVpzU1h0J_5JQBAAMCAANtAAM2BA.webp
       url: https://memos.050815.xyz
       description: memo备忘。
-    - title: BroadcastChannel
+    - title: BroadcastChannel-动态
       logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAMqaKqS4OV4A8lxcNbA3n1CYfv5_OwAApbDMRupnFhVMPdrhjH_s4QBAAMCAAN4AAM2BA.webp
-      url: https://shuoshuo.kemiao.online
+      url: https://memo.kemeow.top
       description: 将您的 Telegram 频道变成微博 
+    - title: BroadcastChannel-资源分享
+      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAMqaKqS4OV4A8lxcNbA3n1CYfv5_OwAApbDMRupnFhVMPdrhjH_s4QBAAMCAAN4AAM2BA.webp
+      url: https://share.kemeow.top
+      description: 将您的 Telegram 频道变成微博 
+    - title: vercel-icefox
+      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAANMaK2gC4yP9V5tzrj-hiczEfBw4-YAAjjFMRtFiXFVfsZpjgvXsPgBAAMCAAN4AAM2BA.webp
+      url: https://pyq.kemeow.top
+      description: vercel部署的icefox主题
 - taxonomy: 服务网站
   icon: fas fa-toolbox
   links:
