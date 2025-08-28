@@ -19,6 +19,10 @@
       logo: https://img.314926.xyz/images/2025/08/23/notionnext.webp
       url: https://myboke.kemeow.top
       description: notionnext的博客，heo主题。
+    - title: Hugo-theme-stack
+      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAANNaLBWtmQ7XuE0bz5Y3ti2qVxxaOMAAn_FMRumNIBVwfPrWJ9-ZfUBAAMCAAN4AAM2BA.webp
+      url: https://miao.kemeow.top
+      description: hugo-theme-stack的自用版本。
     - title: Hugo-Mono
       logo: https://img.314926.xyz/images/2025/08/23/hugo-mono.webp
       url: https://myblog.kemiaosw.top
@@ -94,6 +98,10 @@
       logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAANMaK2gC4yP9V5tzrj-hiczEfBw4-YAAjjFMRtFiXFVfsZpjgvXsPgBAAMCAAN4AAM2BA.webp
       url: https://pyq.kemeow.top
       description: vercel部署的icefox主题
+    - title: tinymind
+      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAANOaLBZkOLYx7BeFb8ekBUAAY6Gx44MAAKBxTEbpjSAVS00zSCHmOHYAQADAgADeAADNgQ.webp
+      url: https://mind.kemiaosw.top
+      description: 基于Github的微博客。
 - taxonomy: 服务网站
   icon: fas fa-toolbox
   links:
