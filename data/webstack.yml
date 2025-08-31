@@ -59,6 +59,10 @@
       logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAM1aKxK_uvzeDN-Mrv2rUuXOzcecc8AAsjGMRv-Y2hVYqkmb9j1XwkBAAMCAANtAAM2BA.webp
       url: https://hao.kemeow.top
       description: halo的hao主题博客。
+    - title: valaxy-yun
+      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAANSaLRf95FCy2KClTXIgaf363WKSi4AAljGMRtfG6BVJIByx_JCTXMBAAMCAAN5AAM2BA.svg
+      url: https://yun.kemeow.top
+      description: valaxy自用版本。
 - taxonomy: 微博客
   icon: fas fa-book
   links:
@@ -106,6 +110,13 @@
       logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAANOaLBZkOLYx7BeFb8ekBUAAY6Gx44MAAKBxTEbpjSAVS00zSCHmOHYAQADAgADeAADNgQ.webp
       url: https://cofe.kemeow.top
       description: 基于Github的微博客。
+- taxonomy: 视频网站
+  icon: fas fa-video
+  links: 
+    - title: BiliBili
+      logo: https://favicon.im/www.bilibili.com
+      url: https://www.bilibili.com
+      description: 二次元视频网站
 - taxonomy: 服务网站
   icon: fas fa-toolbox
   links:
@@ -212,6 +223,14 @@
       logo: https://favicon.im/yesicon.app?larger=true
       url: https://yesicon.app/
       description: Astro、nuxt博客等常用图标网站
+    - title: Font Awesome
+      logo: https://favicon.im/fontawesome.com
+      url: https://fontawesome.com
+      description: fontawesome图标
+    - title: 阿里巴巴矢量图标库
+      logo: https://favicon.im/www.iconfont.cn
+      url: https://www.iconfont.cn
+      description: 阿里巴巴矢量图标库
 - taxonomy: 音乐网站
   icon: fas fa-music
   links:
