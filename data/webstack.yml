@@ -272,10 +272,10 @@
 - taxonomy: 相册&图床&图片修改
   icon: fas fa-image
   links:
-    - title: TimePlus
-      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAANIaKxxsFw7bo144TAcpbcIpnl_ocsAAmbHMRv-Y2hVcWe8wj2Xa2sBAAMCAAN4AAM2BA.webp
-      url: https://photos.050815.xyz
-      description: 张洪的timePlus自用相册
+    - title: NotionNext-photo
+      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAANTaLhKy6KaXlbuAo_rglIAAZtyJvS1AAJkyTEbvR_AVQtiwDuxSlBEAQADAgADeAADNgQ.webp
+      url: https://plog.kemeow.top
+      description: NotionNext的photo主题自用相册
     - title: 克喵的imgbed
       logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAANJaKxyZP-VRG7sjPy7eXVuzbE8t2YAAmrHMRv-Y2hVy3NLWtaa1OkBAAMCAAN4AAM2BA.webp
       url: https://imgbed.kemeow.top
