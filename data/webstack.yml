@@ -13,7 +13,7 @@
       description: 一款设计师风格的 Hexo 主题，支持懒加载、PWA、Latex以及多种评论系统。
     - title: blog-v3-nuxt4
       logo: https://www.zhilu.site/api/avatar.png
-      url: https://kemeow.kemiaosw.top
+      url: https://blog-v3.kemeow.top
       description: 纸鹿的博客魔改。
     - title: notionnext
       logo: https://img.314926.xyz/images/2025/08/23/notionnext.webp
@@ -63,6 +63,10 @@
       logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAANSaLRf95FCy2KClTXIgaf363WKSi4AAljGMRtfG6BVJIByx_JCTXMBAAMCAAN5AAM2BA.svg
       url: https://yun.kemeow.top
       description: valaxy自用版本。
+    - title: vitepress-imsyy
+      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAANaaLw2l4ka1_a5e6M1dR_50zMCFWsAArfJMRsdkehV7oon4q1zyW0BAAMCAAN4AAM2BA.webp
+      url: https://blog-v3.kemiaosw.top
+      description: imsyy的博客主题的sinzmise自用。
 - taxonomy: 微博客
   icon: fas fa-book
   links:
@@ -70,6 +74,10 @@
       logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAM2aKxL1CmdK8DmFfG7u5KljCb1_NMAAszGMRv-Y2hVPlw9GWI-P0EBAAMCAAN4AAM2BA.webp
       url: https://read.050815.xyz
       description: typecho的一款memos说说主题。
+    - title: notion-moments
+      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAANZaLw07TtXh8Vhp04IZHlqV3VhSN8AArDJMRsdkehV3Gw74NoEA70BAAMCAANtAAM2BA.webp
+      url: https://essay.kemeow.top
+      description: Notion的moments。
     - title: Ech0
       logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAMgaKnJZk6CIdcSMMLN5erAnz1aWEYAArbHMRupnFBV8MaN_nT7UskBAAMCAAN4AAM2BA.webp
       url: https://echo.050815.xyz
@@ -208,6 +216,10 @@
       logo: https://favicon.im/xlog.app
       url: https://xlog.app/dashboard/kemiaosw
       description: 在这里为xlog写作
+    - title: Notion笔记
+      logo: https://favicon.im/www.notion.so
+      url: https://www.notion.so/
+      description: notion笔记写作
 - taxonomy: 图标
   icon: fas fa-icons
   links:
