@@ -67,6 +67,10 @@
       logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAANaaLw2l4ka1_a5e6M1dR_50zMCFWsAArfJMRsdkehV7oon4q1zyW0BAAMCAAN4AAM2BA.webp
       url: https://blog-v3.kemiaosw.top
       description: imsyy的博客主题的sinzmise自用。
+    - title: kemiao-chirpy
+      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAANbaL2hCqDIIxJCXNeM0BnU0_O9YHgAApzKMRtMgOhVrQ2cICeOulYBAAMCAANtAAM2BA.webp
+      url: https://boke-v3.kemiaosw.top
+      description: jeklly的博客主题的chirpy自用。
 - taxonomy: 微博客
   icon: fas fa-book
   links:
