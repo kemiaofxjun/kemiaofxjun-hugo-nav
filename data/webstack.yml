@@ -224,6 +224,10 @@
       logo: https://favicon.im/www.notion.so
       url: https://www.notion.so/
       description: notion笔记写作
+    - title: 友链申请
+      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAANdaL7zL51YEyua1FFAT2AAAUd7M92aAAKlyzEbTID4Vd3LqdEyMLFfAQADAgADeAADNgQ.svg
+      url: https://link-app.20050815.xyz/
+      description: 基于Github的友链申请
 - taxonomy: 图标
   icon: fas fa-icons
   links:
@@ -331,6 +335,13 @@
       logo: https://favicon.im/outlook.live.com
       url: https://outlook.live.com/
       description: 微软 Outlook 邮箱。
+- taxonomy: 小玩具
+  icon: fas fa-gamepad
+  links:
+    - title: 电子木鱼
+      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAANcaL7yHyhUXNwggjYCvetCBL7sa1IAAqLLMRtMgPhV4hyXVMpTigoBAAMCAAN4AAM2BA.svg
+      url: https://muyu.20050815.xyz/
+      description: 顾名思义，电子木鱼
 - taxonomy: AI
   icon: fas fa-robot
   links:
