@@ -228,6 +228,14 @@
       logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAANdaL7zL51YEyua1FFAT2AAAUd7M92aAAKlyzEbTID4Vd3LqdEyMLFfAQADAgADeAADNgQ.svg
       url: https://link-app.20050815.xyz/
       description: 基于Github的友链申请
+    - title: RSS订阅
+      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAANeaMBCpAiJQdPdVldznCuoTg6rvkQAAvvMMRtM-gABVsNdBx91RFs7AQADAgADeAADNgQ.svg
+      url: https://rss.20050815.xyz/
+      description: 基于Github的rss订阅
+    - title: Daily-Hot 
+      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAANfaMBF4EtmZA1_3Fc0fQoDJl7SRZUAAifNMRtM-gABVqk1PFlgkKLQAQADAgADbQADNgQ.webp
+      url: https://hot.20050815.xyz/
+      description: 今日热榜
 - taxonomy: 图标
   icon: fas fa-icons
   links:
