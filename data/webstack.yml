@@ -24,7 +24,7 @@
       url: https://myboke.kemeow.top
       description: notionnext的博客，heo主题。
     - title: Hugo-theme-stack
-      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAANNaLBWtmQ7XuE0bz5Y3ti2qVxxaOMAAn_FMRumNIBVwfPrWJ9-ZfUBAAMCAAN4AAM2BA.webp
+      logo: https://imgbed.kemeow.top/file/img/logo/nav/bsb5rcSp.png
       url: https://miao.kemeow.top
       description: hugo-theme-stack的自用版本。
     - title: Hugo-Mono
@@ -40,90 +40,90 @@
       url: https://blog.kemiaosw.top
       description: astro-theme-Mizuki的自用版本。
     - title: suzu-blog
-      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAMfaKnDOjtUSdscJskzhkvZZmPqoagAAq3HMRupnFBVtBUzwAfAgrMBAAMCAAN4AAM2BA.webp
+      logo: https://imgbed.kemeow.top/file/img/logo/nav/IdjeIBjG.png
       url: https://me.kemeow.top
       description: 基于 Next.js 的博客模板，一键启动，简易配置，使用 Markdown 撰写你的文章。
     - title: wallleap-blog
-      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAMmaKqLdVfP6rV0QjlsLLMGBz4AAdF-AAKHwzEbqZxYVV9hJNQl8yumAQADAgADeAADNgQ.webp
+      logo: https://imgbed.kemeow.top/file/img/logo/nav/BJ2YLYAm.png
       url: https://myblog.kemeow.top
       description: A GitHub Issue blog theme based on Vue 2。
     - title: rin-blog
-      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAMoaKqPLqdfoiF8Pw1G4NhpSmkUWMkAApDDMRupnFhVbNrrcIZmXsoBAAMCAAN5AAM2BA.webp
+      logo: https://imgbed.kemeow.top/file/img/logo/nav/WvWGH9G0.png
       url: https://rin.kemeow.top
       description: ⚡基于 Cloudflare Pages + Workers + D1 + R2 的动态博客。
     - title: Gmeek-blog
-      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAMpaKqR6poVc1IfyI6LG6-nYrxdijgAApXDMRupnFhVsGOzja-SddEBAAMCAAN4AAM2BA.webp
+      logo: https://imgbed.kemeow.top/file/img/logo/nav/3XaLlYcU.png
       url: https://blog.kemiao.site
       description: Gmeek 博客。
     - title: xlog
-      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAMsaKqg4alIgMsHFHPOPzuGUiC2BtsAAq7DMRupnFhVe8SYG42VsyYBAAMCAANtAAM2BA.webp
+      logo: https://imgbed.kemeow.top/file/img/logo/nav/ETykq6J9.png
       url: https://xlog.kemiao.xyz
       description: 区块链 博客。
     - title: hao
-      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAM1aKxK_uvzeDN-Mrv2rUuXOzcecc8AAsjGMRv-Y2hVYqkmb9j1XwkBAAMCAANtAAM2BA.webp
+      logo: https://imgbed.kemeow.top/file/img/logo/nav/gkMmixqC.png
       url: https://hao.kemeow.top
       description: halo的hao主题博客。
     - title: valaxy-yun
-      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAANSaLRf95FCy2KClTXIgaf363WKSi4AAljGMRtfG6BVJIByx_JCTXMBAAMCAAN5AAM2BA.svg
+      logo: https://imgbed.kemeow.top/file/img/logo/nav/MLxFGyEt.png
       url: https://yun.kemeow.top
       description: valaxy自用版本。
     - title: vitepress-imsyy
-      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAANaaLw2l4ka1_a5e6M1dR_50zMCFWsAArfJMRsdkehV7oon4q1zyW0BAAMCAAN4AAM2BA.webp
+      logo: https://imgbed.kemeow.top/file/img/logo/nav/ElNgE8Tp.png
       url: https://blog-v3.kemiaosw.top
       description: imsyy的博客主题的sinzmise自用。
     - title: kemiao-chirpy
-      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAANbaL2hCqDIIxJCXNeM0BnU0_O9YHgAApzKMRtMgOhVrQ2cICeOulYBAAMCAANtAAM2BA.webp
+      logo: https://imgbed.kemeow.top/file/img/logo/nav/75InMF8l.png
       url: https://boke-v3.kemiaosw.top
       description: jeklly的博客主题的chirpy自用。
 - taxonomy: 微博客
   icon: fas fa-book
   links:
     - title: typecho-memos
-      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAM2aKxL1CmdK8DmFfG7u5KljCb1_NMAAszGMRv-Y2hVPlw9GWI-P0EBAAMCAAN4AAM2BA.webp
+      logo: https://imgbed.kemeow.top/file/img/logo/nav/6itSwCUn.png
       url: https://read.050815.xyz
       description: typecho的一款memos说说主题。
     - title: notion-moments
-      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAANZaLw07TtXh8Vhp04IZHlqV3VhSN8AArDJMRsdkehV3Gw74NoEA70BAAMCAANtAAM2BA.webp
+      logo: https://imgbed.kemeow.top/file/img/logo/nav/U1m0mfm2.png
       url: https://essay.kemeow.top
       description: Notion的moments。
     - title: Ech0
-      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAMgaKnJZk6CIdcSMMLN5erAnz1aWEYAArbHMRupnFBV8MaN_nT7UskBAAMCAAN4AAM2BA.webp
+      logo: https://imgbed.kemeow.top/file/img/logo/nav/ENM4fgQH.png
       url: https://echo.050815.xyz
       description: Ech0 - 开源、自托管、专注思想流动的轻量级发布平台。
     - title: Moments
-      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAM3aKxO506J6UnxXUuj1260Tp2D3CEAAtDGMRv-Y2hVjcUKjzXp_akBAAMCAAN4AAM2BA.webp
+      logo: https://imgbed.kemeow.top/file/img/logo/nav/dqJWKoBQ.png
       url: https://moment.051531.xyz
       description: Moments朋友圈部署。
     - title: icefox
-      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAM4aKxQnUJPYPb9QjK63u6edyavJWUAAtLGMRv-Y2hVDZg7hbwMRBUBAAMCAANtAAM2BA.webp
+      logo: https://imgbed.kemeow.top/file/img/logo/nav/3mnYyTaq.png
       url: https://pyq.081531.xyz
       description: Typecho微信朋友圈主题 icefox。
     - title: typecho-reborn
-      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAM5aKxRo6H4PpLu24PYr6QlM8vE8hMAAtnGMRv-Y2hVBtul0xu0q5YBAAMCAAN4AAM2BA.webp
+      logo: https://imgbed.kemeow.top/file/img/logo/nav/HK5AZTzl.png
       url: https://moment.081531.xyz
       description: Typecho又一仿朋友圈主题。
     - title: memos
-      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAMhaKnPdyeR6najXgPkOqV5IMarHS4AAs3HMRupnFBVpzU1h0J_5JQBAAMCAANtAAM2BA.webp
+      logo: https://imgbed.kemeow.top/file/img/logo/nav/oMOFzR4q.png
       url: https://memos.050815.xyz
       description: memo备忘。
     - title: BroadcastChannel-动态
-      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAMqaKqS4OV4A8lxcNbA3n1CYfv5_OwAApbDMRupnFhVMPdrhjH_s4QBAAMCAAN4AAM2BA.webp
+      logo: https://imgbed.kemeow.top/file/img/logo/nav/8J2T2C0A.png
       url: https://memo.kemeow.top
       description: 将您的 Telegram 频道变成微博 
     - title: BroadcastChannel-资源分享
-      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAMqaKqS4OV4A8lxcNbA3n1CYfv5_OwAApbDMRupnFhVMPdrhjH_s4QBAAMCAAN4AAM2BA.webp
+      logo: https://imgbed.kemeow.top/file/img/logo/nav/8J2T2C0A.png
       url: https://share.kemeow.top
       description: 将您的 Telegram 频道变成微博 
     - title: vercel-icefox
-      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAANMaK2gC4yP9V5tzrj-hiczEfBw4-YAAjjFMRtFiXFVfsZpjgvXsPgBAAMCAAN4AAM2BA.webp
+      logo: https://imgbed.kemeow.top/file/img/logo/nav/N6sdDiWK.png
       url: https://pyq.kemeow.top
       description: vercel部署的icefox主题
     - title: tinymind
-      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAANOaLBZkOLYx7BeFb8ekBUAAY6Gx44MAAKBxTEbpjSAVS00zSCHmOHYAQADAgADeAADNgQ.webp
+      logo: https://imgbed.kemeow.top/file/img/logo/nav/XRc5Usnm.png
       url: https://tinymind.kemiaosw.top
       description: 基于Github的微博客。
     - title: cofe-tinymind
-      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAANOaLBZkOLYx7BeFb8ekBUAAY6Gx44MAAKBxTEbpjSAVS00zSCHmOHYAQADAgADeAADNgQ.webp
+      logo: https://imgbed.kemeow.top/file/img/logo/nav/XRc5Usnm.png
       url: https://cofe.kemeow.top
       description: 基于Github的微博客。
 - taxonomy: 视频网站
@@ -137,7 +137,7 @@
   icon: fas fa-toolbox
   links:
     - title: meting-api
-      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAM6aKxVe44MhPVhumMYQLsJCakOMxMAAuHGMRv-Y2hV06qWJ7zvug0BAAMCAAN4AAM2BA.gif
+      logo: https://imgbed.kemeow.top/file/img/logo/nav/i6HoBsR7.png
       url: https://meting.051531.xyz/meting/
       description: Meting API 接口
     - title: CloudPaste
@@ -145,7 +145,7 @@
       url: https://cloud.kemeow.top
       description: 于 Cloudflare 的在线剪贴板和文件分享服务，支持 Markdown 编辑和文件上传。
     - title: Kemiao-Cover
-      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAANQaLE6hZYxcwcoBRYWEl67jesqPFoAAg_DMRumNIhVxA9hIraM1h0BAAMCAANtAAM2BA.svg
+      logo: https://imgbed.kemeow.top/file/img/logo/nav/ZeankVGQ.png
       url: https://cover.kemeow.top
       description: 简洁的在线生成封面网站
     - title: kemiao-CoverView
@@ -153,51 +153,51 @@
       url: https://coverview.kemeow.top
       description: 封面生成器
     - title: Umami
-      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAMZaKmFyiKaVZXNY7kXKfW8zP4eDGkAAkjEMRuLMFFV2tQhf9SXxrkBAAMCAAN4AAM2BA.webp
+      logo: https://imgbed.kemeow.top/file/img/logo/nav/6eHAGXcq.png
       url: https://unami-kemiao.kemiaosw.top
       description: 克喵的Umami自建服务
     - title: 网站监测
-      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAMaaKmTWVxkdidV-MMtbWaBcKQWZJYAAoHEMRuLMFFVq_PMXQkvPxIBAAMCAAN4AAM2BA.webp
+      logo: https://imgbed.kemeow.top/file/img/logo/nav/XnHVGtlA.png
       url: https://status.kemeow.top
       description: 克喵的网站监测页面
     - title: busuanzi统计
-      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAM7aKxfjMCcs27GcqbFUZCvE2ose1cAAvnGMRv-Y2hVDBy2uEE-qgkBAAMCAAN5AAM2BA.webp
+      logo: https://imgbed.kemeow.top/file/img/logo/nav/Z2pckiPc.png
       url: https://busuanzi.050815.xyz
       description: 卜算子网站统计服务
     - title: check-flink
-      logo: https://imgtg.kemeow.top/file/BQACAgUAAyEGAAScqokCAAM8aKxgpCe56KS3DVv2ZIfQa5S_vF0AAm0XAAL-Y2hVvpfMYpq6iUw2BA.ico
+      logo: https://imgbed.kemeow.top/file/img/logo/nav/FsPBh7H6.png
       url: https://check-flink.kemeow.top
       description: 检查友链情况
     - title: kemiao-moepush
-      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAMdaKm4J303SLKgLVn84RQS2ctJ9lYAAp3HMRupnFBVCUvGkLy_jDIBAAMCAAN3AAM2BA.webp
+      logo: https://imgbed.kemeow.top/file/img/logo/nav/GQDr9qy9.png
       url: https://moepush.261770.xyz
       description: 一个基于 NextJS + Cloudflare 技术栈构建的可爱消息推送服务
     - title: hubproxy
-      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAM9aKxii92wqsYDFA5UJqIaQutNjUEAAv_GMRv-Y2hVDR1i5fvLbMkBAAMCAAN4AAM2BA.webp
+      logo: https://imgbed.kemeow.top/file/img/logo/nav/Q3CWkqdi.png
       url: https://gh.050815.xyz
       description: 代理加速服务
     - title: MeowNocode
-      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAM-aKxjsg3bmBeCths4PZrBl152Y2AAAgnHMRv-Y2hVv6c49oIkjXsBAAMCAAN4AAM2BA.webp
+      logo: https://imgbed.kemeow.top/file/img/logo/nav/dUWl5vg5.png
       url: https://meow.kemeow.top
       description: 无服务器的memos
     - title: Qexo
-      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAMeaKnA0XHhyYQ03dUfyEXpLAAB11CUAAKoxzEbqZxQVdV4FGAC7qDlAQADAgADbQADNgQ.webp
+      logo: https://imgbed.kemeow.top/file/img/logo/nav/Ejjsk1Hh.png
       url: https://qexo.kemeow.top
       description: 适用于所有静态博客框架的快速、强大且美观的在线管理器。
     - title: Newsnow
-      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAANAaKxl6XDgJW0LfTgQ8E9qbKk4xFoAAhDHMRv-Y2hVylN89o3A7O8BAAMCAAN3AAM2BA.webp
+      logo: https://imgbed.kemeow.top/file/img/logo/nav/0VGdnGeR.png
       url: https://newsnow.kemeow.top
       description: Elegant reading of real-time and hottest news
     - title: 圣道云
-      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAANDaKxuJuiwPmwZvXejdnC1wRMoPJUAAlbHMRv-Y2hVc4Nl4lc0wrUBAAMCAANtAAM2BA.webp
+      logo: https://imgbed.kemeow.top/file/img/logo/nav/JBsnx5mY.png
       url: https://www.shengdaoyun.cn/
       description: 我的服务器和虚拟主机的网站
     - title: 阿里云
-      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAANEaKxuu0mMqcgI68eKdsKrmUHjljYAAlvHMRv-Y2hV8yb82dqpPccBAAMCAAN5AAM2BA.webp
+      logo: https://imgbed.kemeow.top/file/img/logo/nav/gQyPAu3e.png
       url: https://cn.aliyun.com/
       description: 我的域名厂商 
     - title: Substracker
-      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAANHaKxxO-vuXNDznKeStr-yOvrGFGwAAmLHMRv-Y2hVE2xEItAcAr4BAAMCAAN4AAM2BA.webp
+      logo: https://imgbed.kemeow.top/file/img/logo/nav/Lr4w1ig2.png
       url: https://sub.kemeow.top
       description: 基于Cloudflare Workers的轻量级订阅管理系统，帮助您轻松跟踪各类订阅服务的到期时间  
     - title: GitHub
@@ -229,15 +229,15 @@
       url: https://www.notion.so/
       description: notion笔记写作
     - title: 友链申请
-      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAANdaL7zL51YEyua1FFAT2AAAUd7M92aAAKlyzEbTID4Vd3LqdEyMLFfAQADAgADeAADNgQ.svg
+      logo: https://imgbed.kemeow.top/file/img/logo/nav/kI88WOSU.png
       url: https://link-app.20050815.xyz/
       description: 基于Github的友链申请
     - title: RSS订阅
-      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAANeaMBCpAiJQdPdVldznCuoTg6rvkQAAvvMMRtM-gABVsNdBx91RFs7AQADAgADeAADNgQ.svg
+      logo: https://imgbed.kemeow.top/file/img/logo/nav/7Y4ygwOb.png
       url: https://rss.20050815.xyz/
       description: 基于Github的rss订阅
     - title: Daily-Hot 
-      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAANfaMBF4EtmZA1_3Fc0fQoDJl7SRZUAAifNMRtM-gABVqk1PFlgkKLQAQADAgADbQADNgQ.webp
+      logo: https://imgbed.kemeow.top/file/img/logo/nav/DnFTJudT.png
       url: https://hot.20050815.xyz/
       description: 今日热榜
 - taxonomy: 图标
@@ -267,7 +267,7 @@
   icon: fas fa-music
   links:
     - title: Heo-Music
-      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAM_aKxk1W_vUyajawa2KaJm-_pdm00AAg3HMRv-Y2hVSyNIzkjBPqMBAAMCAAN3AAM2BA.webp
+      logo: https://imgbed.kemeow.top/file/img/logo/nav/itBkivtx.png
       url: https://music.kemiao.online
       description: 一个基于Aplayer和MetingJS的静态音乐播放器。
     - title: 网易云音乐
@@ -275,22 +275,22 @@
       url: https://music.163.com/
       description: 163 网易云音乐
     - title: GO 音乐平台
-      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAANFaKxvOe6G54PXXxzJXnxSYC-A0SUAAl_HMRv-Y2hV5P71cpI6Q7IBAAMCAAN4AAM2BA.webp
+      logo: https://imgbed.kemeow.top/file/img/logo/nav/KT5I7Dx5.png
       url: https://music.gdstudio.xyz/
       description: 音乐下载网站
 - taxonomy: 云盘
   icon: fas fa-database
   links:
     - title: YF-cloud
-      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAANBaKxpzVklD4fNF11UGl1IxipehdUAAijHMRv-Y2hVr0o9v7qT96kBAAMCAAN4AAM2BA.webp
+      logo: https://imgbed.kemeow.top/file/img/logo/nav/BBn6chBG.png
       url: https://fx.kemeow.top
       description: YF-cloud资源分享平台
     - title: kemiao-FlareDrive-R2
-      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAANCaKxsB_jBd1-3hQM7qWUbl_44llcAAkjHMRv-Y2hVaxYBIp-n3PwBAAMCAAN4AAM2BA.webp
+      logo: https://imgbed.kemeow.top/file/img/logo/nav/jbmoQstT.png
       url: https://pan.kemeow.top
       description: FlareDrive-R2 是基于 Cloudflare R2 + Workers 构建的在线网盘系统
     - title: openlist
-      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAMcaKmwTbAGYa6SIEu8zHaZkugXYpcAApfHMRupnFBVqxiVTrE5qHABAAMCAAN5AAM2BA.svg
+      logo: https://imgbed.kemeow.top/file/img/logo/nav/en7JmxCV.png
       url: https://alist.050815.xyz
       description: alist开源网盘的改版
     - title: 123 云盘
@@ -305,11 +305,11 @@
   icon: fas fa-image
   links:
     - title: NotionNext-photo
-      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAANTaLhKy6KaXlbuAo_rglIAAZtyJvS1AAJkyTEbvR_AVQtiwDuxSlBEAQADAgADeAADNgQ.webp
+      logo: https://imgbed.kemeow.top/file/img/logo/nav/ToNM1vw9.png
       url: https://plog.kemeow.top
       description: NotionNext的photo主题自用相册
     - title: 克喵的imgbed
-      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAANJaKxyZP-VRG7sjPy7eXVuzbE8t2YAAmrHMRv-Y2hVy3NLWtaa1OkBAAMCAAN4AAM2BA.webp
+      logo: https://imgbed.kemeow.top/file/img/logo/nav/LGthKTxF.png
       url: https://imgbed.kemeow.top
       description: cloudflare的imgbed
     - title: 图片大小修改
@@ -328,7 +328,7 @@
   icon: fas fa-envelope
   links:
     - title: cloud-mail
-      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAMbaKmklN8oHrhud8bnYiCm2vuYx3YAAovHMRupnFBVO9B8TqZdFHcBAAMCAANtAAM2BA.svg
+      logo: https://imgbed.kemeow.top/file/img/logo/nav/P7eokik8.png
       url: https://mail.kemeow.top
       description: 基于cloudflare的邮件服务
     - title: QQ 邮箱
@@ -336,7 +336,7 @@
       url: http://mail.qq.com/
       description: 腾讯 QQ 邮箱。
     - title: 163 邮箱
-      logo: https://favicon.im/mail.163.com
+      logo: https://imgbed.kemeow.top/file/img/logo/nav/050CP4hh.png
       url: https://mail.163.com/
       description: 网易 163 邮箱。
     - title: Gmail 邮箱
@@ -351,7 +351,7 @@
   icon: fas fa-gamepad
   links:
     - title: 电子木鱼
-      logo: https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAANcaL7yHyhUXNwggjYCvetCBL7sa1IAAqLLMRtMgPhV4hyXVMpTigoBAAMCAAN4AAM2BA.svg
+      logo: https://imgbed.kemeow.top/file/img/logo/nav/dNRCBWGc.png
       url: https://muyu.20050815.xyz/
       description: 顾名思义，电子木鱼
 - taxonomy: AI
