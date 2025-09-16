@@ -75,6 +75,10 @@
       logo: https://imgbed.kemeow.top/file/img/logo/nav/75InMF8l.png
       url: https://boke-v3.kemiaosw.top
       description: jeklly的博客主题的chirpy自用。
+    - title: valaxy-Big-Cake-jpg
+      logo: https://imgbed.kemeow.top/file/img/custom/1757993084795_image.png
+      url: https://blog.20050815.xyz
+      description: valaxy的博客主题的Big-Cake-jpg自用。      
 - taxonomy: 微博客
   icon: fas fa-book
   links:
@@ -240,6 +244,10 @@
       logo: https://imgbed.kemeow.top/file/img/logo/nav/DnFTJudT.png
       url: https://hot.20050815.xyz/
       description: 今日热榜
+    - title: EdgeOne 
+      logo: https://favicon.im/console.tencentcloud.com
+      url: https://console.tencentcloud.com/edgeone
+      description: 腾讯云edgeone
 - taxonomy: 图标
   icon: fas fa-icons
   links:
