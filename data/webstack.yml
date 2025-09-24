@@ -78,14 +78,30 @@
     - title: valaxy-Big-Cake-jpg
       logo: https://imgbed.kemeow.top/file/img/custom/1757993084795_image.png
       url: https://blog.20050815.xyz
-      description: valaxy的博客主题的Big-Cake-jpg自用。      
+      description: valaxy的博客主题的Big-Cake-jpg自用。  
+    - title: Frosti-Blog
+      logo: https://img.314926.xyz/images/2025/09/24/frosti-logo.webp
+      url: https://blog.zhzsx.cn
+      description: Astro-theme-frosti博客自用。   
+    - title: typecho-bearsimple
+      logo: hhttps://img.314926.xyz/images/2025/09/24/bearsimple.webp
+      url: https://boke.zhzsx.cn
+      description: typecho的bearsimple主题博客   
 - taxonomy: 微博客
   icon: fas fa-book
   links:
-    - title: typecho-memos
-      logo: https://imgbed.kemeow.top/file/img/logo/nav/6itSwCUn.png
-      url: https://read.050815.xyz
-      description: typecho的一款memos说说主题。
+    # - title: typecho-memos
+    #   logo: https://imgbed.kemeow.top/file/img/logo/nav/6itSwCUn.png
+    #   url: https://read.050815.xyz
+    #   description: typecho的一款memos说说主题。
+    - title: SaroProck
+      logo: https://img.314926.xyz/images/2025/09/24/evesunmaple.webp
+      url: https://www.zhzsx.cn
+      description: 基于TG的又一款微语博客。
+    - title: github-issues-moments
+      logo: https://img.314926.xyz/images/2025/09/24/20250924103659014.webp
+      url: https://moment.zhzsx.cn
+      description: 基于html的github-issues的moments。
     - title: notion-moments
       logo: https://imgbed.kemeow.top/file/img/logo/nav/U1m0mfm2.png
       url: https://essay.kemeow.top
@@ -246,8 +262,12 @@
       description: 今日热榜
     - title: EdgeOne 
       logo: https://favicon.im/console.tencentcloud.com
-      url: https://console.tencentcloud.com/edgeone
+      url: https://sink.zhzsx.cn
       description: 腾讯云edgeone
+    - title: Sink
+      logo: https://img.314926.xyz/images/2025/09/24/sink2.webp
+      url: https://console.tencentcloud.com/edgeone
+      description: 基于cloudflare的分析系统
 - taxonomy: 图标
   icon: fas fa-icons
   links:
@@ -355,6 +375,10 @@
       logo: https://favicon.im/outlook.live.com
       url: https://outlook.live.com/
       description: 微软 Outlook 邮箱。
+    - title: cloudflare_temp_email
+      logo: https://img.314926.xyz/images/2025/09/24/20250924105900514.webp
+      url: https://maiil.zhzsx.cn
+      description: 又一款域名邮箱
 - taxonomy: 小玩具
   icon: fas fa-gamepad
   links:
