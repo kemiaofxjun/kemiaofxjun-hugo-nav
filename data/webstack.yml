@@ -90,7 +90,11 @@
     - title: typecho-bearsimple
       logo: https://img.314926.xyz/images/2025/09/24/bearsimple.webp
       url: https://boke.zhzsx.cn
-      description: typecho的bearsimple主题博客   
+      description: typecho的bearsimple主题博客
+    - title: 我的fishcpy博客自用
+      logo: https://img.314926.xyz/images/2025/09/25/fishcpy.webp
+      url: https://blog-v3.zhzsx.cn
+      description: fishcpy的个人博客自用。   
 - taxonomy: 微博客
   icon: fas fa-book
   links:
@@ -403,7 +407,7 @@
       description: 问小白-AI
     - title: Copilot
       logo: https://favicon.im/copilot.microsoft.com
-      url: https://copilot.microsoft.com/chats/
+      url: https://copilot.microsoft.com/
       description: 微软 Copilot-AI
     - title: Kimi
       logo: https://favicon.im/www.kimi.com
