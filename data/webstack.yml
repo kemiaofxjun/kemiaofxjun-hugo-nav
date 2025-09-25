@@ -11,6 +11,10 @@
       logo: https://img.314926.xyz/images/2025/09/10/quenan.webp
       url: https://home.20050815.xyz
       description: 鹊楠的个人主页自用。
+    - title: 我的fishcpy主页
+      logo: https://img.314926.xyz/images/2025/09/25/fishcpy.webp
+      url: https://home.zhzsx.cn
+      description: fishcpy的个人主页自用。
     - title: solitude
       logo: https://img.314926.xyz/images/2025/08/23/hexo-blog-solitude.webp
       url: https://myboke.kemiaosw.top
@@ -180,6 +184,10 @@
       logo: https://imgbed.kemeow.top/file/img/logo/nav/XnHVGtlA.png
       url: https://status.kemeow.top
       description: 克喵的网站监测页面
+    - title: uptime-status
+      logo: https://imgbed.kemeow.top/file/img/logo/nav/XnHVGtlA.png
+      url: https://status.zhzsx.cn
+      description: 钟神秀的网站监测页面
     - title: busuanzi统计
       logo: https://imgbed.kemeow.top/file/img/logo/nav/Z2pckiPc.png
       url: https://busuanzi.050815.xyz
@@ -262,11 +270,11 @@
       description: 今日热榜
     - title: EdgeOne 
       logo: https://favicon.im/console.tencentcloud.com
-      url: https://sink.zhzsx.cn
+      url: https://console.tencentcloud.com/edgeone
       description: 腾讯云edgeone
     - title: Sink
       logo: https://img.314926.xyz/images/2025/09/24/sink2.webp
-      url: https://console.tencentcloud.com/edgeone
+      url: https://sink.zhzsx.cn
       description: 基于cloudflare的分析系统
 - taxonomy: 图标
   icon: fas fa-icons
