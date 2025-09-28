@@ -281,7 +281,7 @@
       url: https://sink.zhzsx.cn
       description: 基于cloudflare的分析系统
     - title: mc 壁纸站
-      logo: https://favicon.im/enginecat.cn
+      logo: https://favicon.im/enginecat.cn?larger=true
       url: http://enginecat.cn/
       description: 我的世界壁纸站
 - taxonomy: 图标
