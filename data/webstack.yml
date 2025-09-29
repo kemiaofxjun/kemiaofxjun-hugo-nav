@@ -284,6 +284,10 @@
       logo: https://favicon.im/enginecat.cn?larger=true
       url: http://enginecat.cn/
       description: 我的世界壁纸站
+    - title: 公益api
+      logo: https://img.314926.xyz/images/2025/09/29/api.svg
+      url: https://api.szfx.top/
+      description: 松鼠公益api结构
 - taxonomy: 图标
   icon: fas fa-icons
   links:
