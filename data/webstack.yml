@@ -288,6 +288,10 @@
       logo: https://img.314926.xyz/images/2025/09/29/api.svg
       url: https://api.szfx.top/
       description: 松鼠公益api结构
+    - title: 偷懒工具
+      logo: https://favicon.im/toolight.cn
+      url: https://toolight.cn/
+      description: 免费在线工具
 - taxonomy: 图标
   icon: fas fa-icons
   links:
