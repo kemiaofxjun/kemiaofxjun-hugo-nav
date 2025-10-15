@@ -35,13 +35,21 @@
       logo: https://img.314926.xyz/images/2025/08/23/hugo-mono.webp
       url: https://myblog.kemiaosw.top
       description: 基于hugo的一款非常简洁的博客主题。
+    # - title: astro-theme-pure
+    #   logo: https://img.314926.xyz/images/2025/08/23/astro-pure.webp
+    #   url: https://kmblog.kemeow.top
+    #   description: astro-theme-pure的自用版本。
     - title: astro-theme-pure
       logo: https://img.314926.xyz/images/2025/08/23/astro-pure.webp
-      url: https://kmblog.kemeow.top
+      url: https://me.zhzsx.cn
       description: astro-theme-pure的自用版本。
+    # - title: astro-theme-Mizuki
+    #   logo: https://img.314926.xyz/images/2025/08/23/Mizuki.webp
+    #   url: https://blog.kemiaosw.top
+    #   description: astro-theme-Mizuki的自用版本。
     - title: astro-theme-Mizuki
       logo: https://img.314926.xyz/images/2025/08/23/Mizuki.webp
-      url: https://blog.kemiaosw.top
+      url: https://myblog.zhzsx.cn
       description: astro-theme-Mizuki的自用版本。
     - title: suzu-blog
       logo: https://imgbed.kemeow.top/file/img/logo/nav/IdjeIBjG.png
@@ -51,10 +59,10 @@
       logo: https://imgbed.kemeow.top/file/img/logo/nav/BJ2YLYAm.png
       url: https://myblog.kemeow.top
       description: A GitHub Issue blog theme based on Vue 2。
-    - title: rin-blog
-      logo: https://imgbed.kemeow.top/file/img/logo/nav/WvWGH9G0.png
-      url: https://rin.kemeow.top
-      description: ⚡基于 Cloudflare Pages + Workers + D1 + R2 的动态博客。
+    # - title: rin-blog
+    #   logo: https://imgbed.kemeow.top/file/img/logo/nav/WvWGH9G0.png
+    #   url: https://rin.kemeow.top
+    #   description: ⚡基于 Cloudflare Pages + Workers + D1 + R2 的动态博客。
     - title: Gmeek-blog
       logo: https://imgbed.kemeow.top/file/img/logo/nav/3XaLlYcU.png
       url: https://blog.kemiao.site
@@ -63,10 +71,10 @@
       logo: https://imgbed.kemeow.top/file/img/logo/nav/ETykq6J9.png
       url: https://xlog.kemiao.xyz
       description: 区块链 博客。
-    - title: hao
-      logo: https://imgbed.kemeow.top/file/img/logo/nav/gkMmixqC.png
-      url: https://hao.kemeow.top
-      description: halo的hao主题博客。
+    # - title: hao
+    #   logo: https://imgbed.kemeow.top/file/img/logo/nav/gkMmixqC.png
+    #   url: https://hao.kemeow.top
+    #   description: halo的hao主题博客。
     - title: valaxy-yun
       logo: https://imgbed.kemeow.top/file/img/logo/nav/MLxFGyEt.png
       url: https://yun.kemeow.top
@@ -87,14 +95,30 @@
       logo: https://img.314926.xyz/images/2025/09/24/frosti-logo.webp
       url: https://blog.zhzsx.cn
       description: Astro-theme-frosti博客自用。   
-    - title: typecho-bearsimple
-      logo: https://img.314926.xyz/images/2025/09/24/bearsimple.webp
-      url: https://boke.zhzsx.cn
-      description: typecho的bearsimple主题博客
+    # - title: typecho-bearsimple
+    #   logo: https://img.314926.xyz/images/2025/09/24/bearsimple.webp
+    #   url: https://boke.zhzsx.cn
+    #   description: typecho的bearsimple主题博客
     - title: 我的fishcpy博客自用
       logo: https://img.314926.xyz/images/2025/09/25/fishcpy.webp
       url: https://blog-v3.zhzsx.cn
-      description: fishcpy的个人博客自用。   
+      description: fishcpy的个人博客自用。
+    - title: Hexo-stellar
+      logo: https://cn.cravatar.com/avatar/15e59a60168a6ce1bfc3eddfca8c5a54?s=512
+      url: https://myblog.zhzsx.cn
+      description: hexo的stellar博客自用   
+    - title: Hexo-anzhiyu
+      logo: https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg
+      url: https://zsxsw.zhzsx.cn
+      description: hexo的anzhiyu博客自用
+    - title: Hexo-fluid
+      logo: https://img.314926.xyz/images/2025/10/15/fluid.webp
+      url: https://fluid.zhzsx.cn
+      description: hexo的fluid博客自用  
+    - title: vhastro-theme
+      logo: https://q1.qlogo.cn/g?b=qq&nk=1655466387&s=640
+      url: https://vhastro.zhzsx.cn
+      description: astro的vhastro博客自用  
 - taxonomy: 微博客
   icon: fas fa-book
   links:
@@ -106,10 +130,10 @@
       logo: https://img.314926.xyz/images/2025/09/24/evesunmaple.webp
       url: https://www.zhzsx.cn
       description: 基于TG的又一款微语博客。
-    - title: github-issues-moments
-      logo: https://img.314926.xyz/images/2025/09/24/20250924103659014.webp
-      url: https://moment.zhzsx.cn
-      description: 基于html的github-issues的moments。
+    # - title: github-issues-moments
+    #   logo: https://img.314926.xyz/images/2025/09/24/20250924103659014.webp
+    #   url: https://moment.zhzsx.cn
+    #   description: 基于html的github-issues的moments。
     - title: notion-moments
       logo: https://imgbed.kemeow.top/file/img/logo/nav/U1m0mfm2.png
       url: https://essay.kemeow.top
@@ -292,6 +316,14 @@
       logo: https://favicon.im/toolight.cn
       url: https://toolight.cn/
       description: 免费在线工具
+    - title: hananalytics
+      logo: https://img.314926.xyz/images/2025/10/15/analytics.svg
+      url: https://analytic.zhzsx.cn
+      description: hananalytics自用
+    - title: hot-list
+      logo: https://img.314926.xyz/images/2025/10/15/logo-hot.svg
+      url: https://hot-list.zhzsx.cn
+      description: hot-list自用
 - taxonomy: 图标
   icon: fas fa-icons
   links:
