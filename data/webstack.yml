@@ -324,6 +324,10 @@
       logo: https://img.314926.xyz/images/2025/10/15/logo-hot.svg
       url: https://hot-list.zhzsx.cn
       description: hot-list自用
+    - title: Mastodon长毛象
+      logo: https://favicon.im/mastodon.social?larger=true
+      url: https://mastodon.social
+      description: Mastodon长毛象说说
 - taxonomy: 图标
   icon: fas fa-icons
   links:
