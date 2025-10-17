@@ -328,6 +328,10 @@
       logo: https://favicon.im/mastodon.social?larger=true
       url: https://mastodon.social
       description: Mastodon长毛象说说
+    - title: 至简API
+      logo: https://favicon.im/v.xapi.chat?larger=true
+      url: https://v.xapi.cha
+      description: 至简API使用
 - taxonomy: 图标
   icon: fas fa-icons
   links:
